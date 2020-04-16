@@ -1,1 +1,1 @@
-# Seinfield-Text-Mining-And-Sentiment-Data-Analysis
+# Seinfield-Text-Sentiment-Data-Analysis
